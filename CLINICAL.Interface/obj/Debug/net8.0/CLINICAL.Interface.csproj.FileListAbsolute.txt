@@ -1,0 +1,15 @@
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/bin/Debug/net8.0/CLINICAL.Interface.deps.json
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/bin/Debug/net8.0/CLINICAL.Interface.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/bin/Debug/net8.0/CLINICAL.Interface.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/bin/Debug/net8.0/CLINICAL.Domain.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/bin/Debug/net8.0/CLINICAL.Domain.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.csproj.AssemblyReference.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.AssemblyInfoInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.AssemblyInfo.cs
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.csproj.CoreCompileInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.33674A6F.Up2Date
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/refint/CLINICAL.Interface.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/CLINICAL.Interface.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/Debug/net8.0/ref/CLINICAL.Interface.dll

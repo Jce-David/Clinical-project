@@ -1,0 +1,11 @@
+/home/david/RiderProjects/Solution8/CLINICAL.Application/bin/Debug/net8.0/CLINICAL.Application.deps.json
+/home/david/RiderProjects/Solution8/CLINICAL.Application/bin/Debug/net8.0/CLINICAL.Application.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Application/bin/Debug/net8.0/CLINICAL.Application.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.AssemblyInfoInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.AssemblyInfo.cs
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.csproj.CoreCompileInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/refint/CLINICAL.Application.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/CLINICAL.Application.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/Debug/net8.0/ref/CLINICAL.Application.dll

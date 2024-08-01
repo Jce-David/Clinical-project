@@ -1,0 +1,557 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/david/RiderProjects/Solution8/CLINICAL.Api/CLINICAL.Api.csproj": {}
+  },
+  "projects": {
+    "/home/david/RiderProjects/Solution8/CLINICAL.Api/CLINICAL.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Api/CLINICAL.Api.csproj",
+        "projectName": "CLINICAL.Api",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Api/CLINICAL.Api.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/CLINICAL.Infrastructure.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/CLINICAL.Infrastructure.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/CLINICAL.Persistence.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/CLINICAL.Persistence.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/CLINICAL.UseCase.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/CLINICAL.UseCase.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj",
+        "projectName": "CLINICAL.Application",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj",
+        "projectName": "CLINICAL.Domain",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/CLINICAL.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/CLINICAL.Infrastructure.csproj",
+        "projectName": "CLINICAL.Infrastructure",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/CLINICAL.Infrastructure.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0-preview.6.24327.7, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[7.7.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj",
+        "projectName": "CLINICAL.Interface",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/CLINICAL.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
+        "projectName": "CLINICAL.Persistence",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/CLINICAL.Persistence.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/CLINICAL.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/CLINICAL.UseCase.csproj",
+        "projectName": "CLINICAL.UseCase",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/CLINICAL.UseCase.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.UseCase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Application/CLINICAL.Application.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Domain/CLINICAL.Domain.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Interface/CLINICAL.Interface.csproj"
+              },
+              "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj": {
+                "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj",
+        "projectName": "CLINICAL.Utilities",
+        "projectPath": "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/CLINICAL.Utilities.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

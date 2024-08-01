@@ -1,0 +1,11 @@
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/bin/Debug/net8.0/CLINICAL.Utilities.deps.json
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/bin/Debug/net8.0/CLINICAL.Utilities.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/bin/Debug/net8.0/CLINICAL.Utilities.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.AssemblyInfoInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.AssemblyInfo.cs
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.csproj.CoreCompileInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/refint/CLINICAL.Utilities.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/CLINICAL.Utilities.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Utilities/obj/Debug/net8.0/ref/CLINICAL.Utilities.dll

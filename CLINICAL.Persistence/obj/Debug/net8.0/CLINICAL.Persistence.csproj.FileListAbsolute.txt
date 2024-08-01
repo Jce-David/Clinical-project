@@ -1,0 +1,17 @@
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Persistence.deps.json
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Persistence.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Persistence.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Domain.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Interface.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Domain.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/bin/Debug/net8.0/CLINICAL.Interface.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.csproj.AssemblyReference.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.AssemblyInfoInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.AssemblyInfo.cs
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.csproj.CoreCompileInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.ED5B0384.Up2Date
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/refint/CLINICAL.Persistence.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/CLINICAL.Persistence.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Persistence/obj/Debug/net8.0/ref/CLINICAL.Persistence.dll

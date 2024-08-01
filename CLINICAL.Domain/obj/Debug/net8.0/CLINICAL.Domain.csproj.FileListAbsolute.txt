@@ -1,0 +1,11 @@
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/bin/Debug/net8.0/CLINICAL.Domain.deps.json
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/bin/Debug/net8.0/CLINICAL.Domain.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/bin/Debug/net8.0/CLINICAL.Domain.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.AssemblyInfoInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.AssemblyInfo.cs
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.csproj.CoreCompileInputs.cache
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/refint/CLINICAL.Domain.dll
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/CLINICAL.Domain.pdb
+/home/david/RiderProjects/Solution8/CLINICAL.Domain/obj/Debug/net8.0/ref/CLINICAL.Domain.dll
